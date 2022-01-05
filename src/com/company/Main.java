@@ -11,10 +11,8 @@ public class Main {
         objectA.magaz();
         System.out.println("================");
         System.out.println(objectB.getInfo());;
-        objectA.magaz(5);
         System.out.println("================");
         System.out.println(objectC.getInfo());;
-        objectA.magaz();
         System.out.println("================");
     }
 }
